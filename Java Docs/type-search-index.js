@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"com.find_missing_positive_integer","l":"FindMissingPositiveInteger"}]
